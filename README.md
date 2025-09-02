@@ -1,39 +1,24 @@
-# web-scraping-python
-A hands-on Web Scraping Lab using Python and BeautifulSoup. Learn how to extract, parse, and navigate HTML elements, work with attributes, and collect data from websites efficiently
-# 🕸️ Web Scraping Lab using Python & BeautifulSoup
+# 🕸️ Web Scraping using Python & BeautifulSoup
 
-This project demonstrates how to perform **web scraping** using **Python** and the **BeautifulSoup** library.  
-You will learn how to extract data from HTML pages, navigate tags, access attributes, and scrape website content effectively.
+Hi, I'm **Hasnaat Abdullah** 👋  
 
----
-
-## 📌 Objectives
-
-After completing this lab, you will be able to:
-
-- Understand how to create and work with a **BeautifulSoup object**.
-- Navigate **HTML tags**, **children**, **parents**, and **siblings**.
-- Extract **HTML attributes** and **navigable strings**.
-- Use **filters** to search for elements in an HTML document.
-- Use **find()** and **find_all()** to locate and extract data.
-- Download and scrape the **contents of a webpage**.
+This is my **Web Scraping** project where I practiced using **Python** and the **BeautifulSoup** library to scrape and extract information from websites.  
+In this lab, I learned how to navigate through HTML documents, work with tags, attributes, and extract specific data from webpages.
 
 ---
 
-## 🗂 Table of Contents
+## 📌 What I Learned
 
-1. [BeautifulSoup Object](#beautifulsoup-object)  
-2. [Tags](#tags)  
-3. [Children, Parents, and Siblings](#children-parents-and-siblings)  
-4. [HTML Attributes](#html-attributes)  
-5. [Navigable String](#navigable-string)  
-6. [Filters](#filters)  
-7. [find() and find_all()](#find-and-find_all)  
-8. [Downloading & Scraping Web Content](#downloading-and-scraping)
+- How to create and use a **BeautifulSoup object**.
+- Understanding **HTML tags**, **children**, **parents**, and **siblings**.
+- How to extract **HTML attributes** and **navigable strings**.
+- How to use **filters** to search for elements.
+- Using **find()** and **find_all()** to extract data.
+- Downloading and scraping **webpage contents**.
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠 Tools & Libraries I Used
 
 - **Python 3**
 - **BeautifulSoup (bs4)**
@@ -43,19 +28,20 @@ After completing this lab, you will be able to:
 
 ---
 
-## 📂 Project Structure
+## 📂 My Project Structure
 
 ```bash
 web-scraping-lab-python/
 │
 ├── notebooks/
-│   └── web_scraping_lab.ipynb      # Jupyter Notebook with step-by-step code
-│
-├── data/
-│   └── sample_page.html            # Sample HTML file for testing (optional)
+│   └── web_scraping_lab.ipynb      # My Jupyter Notebook with code and examples
 │
 ├── scripts/
-│   └── scrape_example.py           # Python script for web scraping
+│   └── scrape_example.py           # A Python script for scraping
 │
-├── README.md                      # Project documentation
-└── requirements.txt               # Python dependencies
+├── data/
+│   └── sample_page.html            # Sample HTML file for testing
+│
+├── README.md                      # This file
+└── requirements.txt               # All the libraries I used
+
